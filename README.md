@@ -13,7 +13,7 @@ This project involves cleaning the `world_layoffs.layoffs` dataset using MySQL. 
 Clone this repository to your local machine using the following command:
 ```sh
 git clone https://github.com/sirishaa03/World_layoffs_Data_Cleaning.git
-cd world_layoffs_data_cleaning
+cd world_layoffs_Data_Cleaning
 ```
 
 ### 2. Connect to MySQL
